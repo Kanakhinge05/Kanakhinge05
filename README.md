@@ -1,7 +1,8 @@
+![logo](https://github.com/Kanakhinge05/Kanakhinge05/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://blog.devgenius.io/how-to-launch-an-aws-ec2-instance-via-the-aws-cli-797b6ca5635c">
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animations/aws">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakhinge05&label=Profile%20views&color=0e75b6&style=flat" alt="kanakhinge05" /> </p>
 
