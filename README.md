@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/97058ba9-26bc-4b44-94f7-399545b4347a" />
+<p align="right"><img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/97058ba9-26bc-4b44-94f7-399545b4347a" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakhinge05" alt="kanakhinge05" /></a> </p>
 
