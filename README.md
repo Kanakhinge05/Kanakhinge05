@@ -1,4 +1,4 @@
-![logo](https://github.com/Kanakhinge05/Kanakhinge05/blob/main/github%20banner.png)
+![logo](https://github.com/Kanakhinge05/Kanakhinge05/blob/main/banner%202.png)
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
