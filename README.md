@@ -1,4 +1,4 @@
-_______________________ ![logo](https://t4.ftcdn.net/jpg/05/78/55/19/360_F_578551903_FQ8qLOhbSZ8NJBoVYMhalBor7I5zC5CK.jpg) ________________________
+__________ ![logo](https://t4.ftcdn.net/jpg/05/78/55/19/360_F_578551903_FQ8qLOhbSZ8NJBoVYMhalBor7I5zC5CK.jpg) ________
 <h1 align="center">Hallo 👋, Ich bin Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
