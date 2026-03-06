@@ -1,10 +1,8 @@
-![logo](https://t4.ftcdn.net/jpg/05/78/55/19/360_F_578551903_FQ8qLOhbSZ8NJBoVYMhalBor7I5zC5CK.jpg)
+<p align="center><img width="900" height="600" alt="image" src="https://t4.ftcdn.net/jpg/05/78/55/19/360_F_578551903_FQ8qLOhbSZ8NJBoVYMhalBor7I5zC5CK.jpg" />
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<p align="center"><img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/97058ba9-26bc-4b44-94f7-399545b4347a" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakhinge05" alt="kanakhinge05" /></a> </p>
+<p align="center"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/97058ba9-26bc-4b44-94f7-399545b4347a" />
 
 - 🌱 I’m currently learning **AWS DevOps course**
 
