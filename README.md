@@ -1,4 +1,4 @@
-![logo](https://www.alamy.com/stock-photo/devops.html?pseudoid=E85C25C94CD947949146A964A3D3A4DC)
+![logo](https://c8.alamy.com/comp/2BMAMDF/devops-word-cloud-concept-on-black-background-2BMAMDF.jpg)
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
