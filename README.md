@@ -1,4 +1,4 @@
-![logo](https://www.google.com/imgres?q=professional%20wallpaper%20for%20devops%20&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fdevops-agile-development-optimisation-concept-virtual-screen-151305105.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fdevops.html&docid=mXG5W6uZO1ex5M&tbnid=C5ymt84_FN52yM&vet=12ahUKEwi9itf36oqTAxW9sFYBHUsIEkcQnPAOegQINRAB..i&w=800&h=302&hcb=2&ved=2ahUKEwi9itf36oqTAxW9sFYBHUsIEkcQnPAOegQINRAB)
+![logo](https://www.alamy.com/stock-photo/devops.html?pseudoid=E85C25C94CD947949146A964A3D3A4DC)
 <h1 align="center">Hi 👋, I'm Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
