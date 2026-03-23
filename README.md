@@ -1,10 +1,43 @@
-__________ ![logo](https://t4.ftcdn.net/jpg/05/78/55/19/360_F_578551903_FQ8qLOhbSZ8NJBoVYMhalBor7I5zC5CK.jpg) ________
 <h1 align="center">Hallo 👋, Ich bin Kanak Kumar Hinge</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
 <p align="center"><img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/97058ba9-26bc-4b44-94f7-399545b4347a" />
 
-  <h2 align="center">🌱 I’m currently learning **AWS DevOps course**</h2>
+### ☁️ AWS DevOps Engineer
+**Building Resilient CI/CD Pipelines & Scalable Infrastructure as Code**
+
+---
+
+### 🚀 About Me
+I'm a passionate DevOps enthusiast from India, currently deep-diving into the AWS ecosystem to build seamless, automated cloud experiences.
+
+* 🌱 **Currently Learning:** [AWS DevOps Course](https://github.com/Kanakhinge05)
+* 🎯 **Current Goal:** Mastering Terraform and EKS for production-grade environments.
+* 📫 **Reach Me:** [kanakkumarhinge@gmail.com](mailto:kanakkumarhinge@gmail.com)
+
+---
+
+### 🛠 Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanakhinge05&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakhinge05&layout=compact&theme=dark)
+
+---
+
+### 🔗 Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/kanakkumarhinge)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kanak_kumar_hiingee)
 
   <h4 align="center">📫 How to reach me **kanakkumarhinge@gmail.com**</h4>
 
