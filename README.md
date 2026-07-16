@@ -28,10 +28,15 @@ I'm a passionate DevOps enthusiast from India, currently deep-diving into the AW
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kanakhinge05&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kanakhinge05&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kanakhinge05&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 📊 GitHub Stats
-![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanakhinge05&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakhinge05&layout=compact&theme=dark)
+---
+[![](https://komarev.com/ghpvc/?username=kanakhinge05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
